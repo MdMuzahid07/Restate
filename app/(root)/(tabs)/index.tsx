@@ -10,7 +10,6 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Link href="/sign-In">Sign-in</Link>
     </View>
   );
 }
